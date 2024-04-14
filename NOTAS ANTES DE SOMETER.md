@@ -1,0 +1,1 @@
+-Página 2: Borra el texto rayado.

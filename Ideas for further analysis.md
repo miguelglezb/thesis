@@ -1,0 +1,1 @@
+-Plot of history of a particle that was ejected in the polar outflows (mainly temperature and energies)
